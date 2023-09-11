@@ -1,5 +1,5 @@
 # Markdown: An easy way for you to be an online creative!
-<img src="![image](https://github.com/FikretAslan/reading-notes/assets/135455155/33b86e56-20d5-4951-a5a5-74111c33b9d0)" width="100" height="100">
+<img src="[image](https://github.com/FikretAslan/reading-notes/assets/135455155/33b86e56-20d5-4951-a5a5-74111c33b9d0)" width="100" height="100">
 
 # What is Markdown?
 
