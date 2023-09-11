@@ -23,3 +23,5 @@ People like to use Markdown instead of fancy text editors for a few good reasons
 - Works Everywhere: Markdown works on any device with any operating system. You can write Markdown on your computer, tablet, or phone, no matter what type they are.
 
 - Widespread: Many websites like Reddit and GitHub support Markdown, and lots of apps, both on your computer and online, know how to handle it. So, you'll find Markdown almost everywhere on the internet.
+
+This list was made in Markdown; it's super easy. You can actually use three symbols to create an unordered list: A dash -, an asterisk * and a plus symbol +. For compatibility and good practice choose one way and stick with it (this isn't a Pick 'n' Mix).
