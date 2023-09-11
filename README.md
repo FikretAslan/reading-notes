@@ -9,6 +9,6 @@ I will tell myself:
 - if things become overwhelming, I will give myself space and come back to it
 - I will only better myself if I put the work in!
 
-!(https://lh3.googleusercontent.com/a/ACg8ocJ4Uc9NQfDnvIr15O379NQ_o-rZrVn82BoDzhW1L9RBZzI=s360-c-no)
+![Here's me}(https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
 
 
