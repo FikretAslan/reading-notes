@@ -1,5 +1,7 @@
 # reading-notes
 
+#000000
+
 **#Growth Mindset** 🌻
 Growth mindset is a concept instilled in people from a primary school age. It is the understanding that people, through perseverance and determination, can continue to develop their knowledge and understanding.
 
@@ -10,9 +12,10 @@ I will tell myself:
 - I will only better myself if I put the work in!
 
 **#A little about me**
-I was a former primary school teacher and recently left to pursue my passion of coding & software development.
+I was an experienced primary school teacher and recently left to pursue my passion of coding & software development.
 I'm 31 years old and I live in Cambridge. 
->picture here
+
+
 
 
 
