@@ -1,6 +1,5 @@
 # reading-notes
 
-#000000
 
 **#Growth Mindset** 🌻
 Growth mindset is a concept instilled in people from a primary school age. It is the understanding that people, through perseverance and determination, can continue to develop their knowledge and understanding.
