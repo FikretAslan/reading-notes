@@ -5,7 +5,7 @@
 
 Markdown is a simple way to make your plain text documents look nicer. Instead of using a fancy editor like Microsoft Word or Google Docs, you use special symbols to tell the computer how to format your text. For example, if you want a large title, you put a "#" symbol in front of it (like "# About Me").
 
-If you want to make something bold, you use two asterisks before and after the text **like this text is bold**. It is considered good practice to use the asterisks rather than the underscore __like this__ (which also works but can come across problems when accessed in different ways).
+If you want to make something bold, you use two asterisks before and after the text (**like this text is bold**). It is considered good practice to use the asterisks rather than the underscore __like this__ (which also works but can come across problems when accessed in different ways).
 It might seem a bit strange at first, especially if you're used to fancy editors, but Markdown is a popular way to format text without all the buttons and menus.
 
 # Why use Markdown?
