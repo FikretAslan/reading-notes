@@ -15,6 +15,11 @@ I will tell myself:
 I was an experienced primary school teacher and recently left to pursue my passion of coding & software development.
 I'm 31 years old and I live in Cambridge. 
 
+![1692697281764](https://github.com/FikretAslan/reading-notes/assets/135455155/ea6b7f97-d81e-4627-8716-4604d9ae1fd3)
+
+
+
+
 
 
 
