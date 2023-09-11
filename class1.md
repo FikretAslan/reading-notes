@@ -10,6 +10,8 @@ If you want to make something bold, you use two asterisks before and after the t
 Another feature of Markdown is you can use both bolt and italics at the same time - like this: ***How cool is this?***. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters. It is once again kindly requested that you do not use the underscore for reasons mentioned above!
 It might seem a bit strange at first, especially if you're used to fancy editors, but Markdown is a popular way to format text without all the buttons and menus.
 
+You're probably wondering: How do you create links? Simple! Enclose the link text in brackets and then follow it with the URL in parenthesis e.g. [Pizza App](https://www.youtube.com/shorts/SXHMnicI6Pg)
+
 # Why use Markdown?
 
 People like to use Markdown instead of fancy text editors for a few good reasons:
