@@ -7,7 +7,7 @@ Markdown is a simple way to make your plain text documents look nicer. Instead o
 
 If you want to make something bold, you use two asterisks before and after the text (**like this text is bold**). It is considered good practice to use the asterisks rather than the underscore __  __like this__ (which also works but can come across problems when accessed in different ways).
 
-Another feature of Markdown is you can use both bolt and italics at the same time - like this: ***How cool is this?***. It is once again kindly requested that you do not use the underscore for reasons mentioned above!
+Another feature of Markdown is you can use both bolt and italics at the same time - like this: ***How cool is this?***. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters. It is once again kindly requested that you do not use the underscore for reasons mentioned above!
 It might seem a bit strange at first, especially if you're used to fancy editors, but Markdown is a popular way to format text without all the buttons and menus.
 
 # Why use Markdown?
