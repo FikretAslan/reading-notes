@@ -9,6 +9,11 @@ I will tell myself:
 - if things become overwhelming, I will give myself space and come back to it
 - I will only better myself if I put the work in!
 
-![Here's me}(https://1drv.ms/i/s!AkQCDaQ6jaEfgd9HvPNk7ZKRKvLd8w?e=15jceZ)
+**#A little about me**
+I was a former primary school teacher and recently left to pursue my passion of coding & software development.
+I'm 31 years old and I live in Cambridge. 
+>picture here
+
+
 
 
