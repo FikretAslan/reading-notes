@@ -13,7 +13,7 @@ I will tell myself:
 - if things become overwhelming, I will give myself space and come back to it
 - I will only better myself if I put the work in!
 
-## A little about me 📷
+[Main page](Mainpage.md)
 
 
 

@@ -1,6 +1,6 @@
 # Welcome to my home page!
 
-# Table of Contents
+# Contents
 Lesson 01 - [Growth Mindset](README.md)
 Lesson 02 - [Markdown](class1.md)
 Lesson 03 - [Revisions and the Cloud](class2.md)
