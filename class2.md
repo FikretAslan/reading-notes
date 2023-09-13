@@ -2,7 +2,10 @@
 
 What are four important features to look for in a text editor?
 A text editor should include cut, copy, and paste, find text/replace, wrap texts, create bullet-pointed lists.
+
+
 What do the following commands do?
+
 Pwd – prints the path of the current/working directory.
 Ls – lists files
 Cd – changes directory
