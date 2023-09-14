@@ -17,3 +17,5 @@ Mkdir new-project – creates a new folder named new-project.
 Touch new-project/newfile.md – changes the timestamp of newfile.md.
 Cd .. displays your home directory.
 Ls projects/new-projects – displays the items in the folder.
+
+[Main page](Main page.md)

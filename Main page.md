@@ -4,14 +4,15 @@
 Lesson 01 - [Growth Mindset](README.md)
 Lesson 02 - [Markdown](class1.md)
 Lesson 03 - [Revisions and the Cloud](class2.md)
-Lesson 04 -  HTML & CSS
+Lesson 04 - [HTML & CSS](htmlcss.md)
+Lesson 05 - [JavaScript](JS.md)
 
 # About me
 
-I was an experienced primary school teacher and recently left to pursue my passion for coding & software development.
+An experienced primary school teacher recently left to pursue my passion for coding & software development.
 I'm 31 years old and I live in Cambridge. I enjoy video games, travelling, photography and cooking!
 
-<img src="https://github.com/FikretAslan/reading-notes/assets/135455155/ea6b7f97-d81e-4627-8716-4604d9ae1fd3" width="100" height="100">
+<img src="https://github.com/FikretAslan/reading-notes/assets/135455155/ea6b7f97-d81e-4627-8716-4604d9ae1fd3" width="200" height="200">
 
 ## Contact information
 
