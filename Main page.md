@@ -6,6 +6,8 @@ Lesson 02 - [Markdown](class1.md)
 Lesson 03 - [Revisions and the Cloud](class2.md)
 Lesson 04 - [HTML & CSS](htmlcss.md)
 Lesson 05 - [JavaScript](JS.md)
+Class 01 - [Class01](class-01.md)
+Class 02 - [Class02]
 
 # About me
 
