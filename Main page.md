@@ -8,6 +8,8 @@ Lesson 04 - [HTML & CSS](htmlcss.md)
 Lesson 05 - [JavaScript](JS.md)
 Class 01 - [Class01](class-01.md)
 Class 02 - [Class02](class-02.md)
+Class 03 - [Class03](class-03.md)
+Class 04 - [Class04](class-04.md) - to do.
 
 # About me
 
