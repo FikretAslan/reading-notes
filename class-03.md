@@ -32,6 +32,8 @@
  # With that logic, (a+c) is 10 + false and when run becomes 0. So 10 + 0 = 10.
  # Then we add b which is dog. So it becomes 10dog lol.
 
+ [Main page](Main page.md)
+
  
 
  
