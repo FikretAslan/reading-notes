@@ -42,3 +42,6 @@
 - >= (greater than or equal to)
 
 ### && is used to perform and operation means if anyone of the expression/condition evaluates to false whole thing is false. || is used to perform or operation if anyone of the expression/condition evaluates to true whole thing becomes true.
+
+[Main page](Main page.md)
+
