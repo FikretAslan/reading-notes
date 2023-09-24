@@ -1,16 +1,18 @@
 # Welcome to my home page!
 
 # Contents
-Lesson 01 - [Growth Mindset](README.md)
-Lesson 02 - [Markdown](class1.md)
-Lesson 03 - [Revisions and the Cloud](class2.md)
-Lesson 04 - [HTML & CSS](htmlcss.md)
-Lesson 05 - [JavaScript](JS.md)
-Class 01 - [Class01](class-01.md)
-Class 02 - [Class02](class-02.md)
-Class 03 - [Class03](class-03.md)
-Class 04 - [Class04](class-04.md)
-Class 05 - [Class05](class-05.md)
+- Lesson 01 - [Growth Mindset](README.md)
+- Lesson 02 - [Markdown](class1.md)
+- Lesson 03 - [Revisions and the Cloud](class2.md)
+- Lesson 04 - [HTML & CSS](htmlcss.md)
+- Lesson 05 - [JavaScript](JS.md)
+- Class 01 - [Class01](class-01.md)
+- Class 02 - [Class02](class-02.md)
+- Class 03 - [Class03](class-03.md)
+- Class 04 - [Class04](class-04.md)
+- Class 05 - [Class05](class-05.md)
+- Things I want to learn - [Things I want to learn more about](more-learning.md)
+- 
 
 # About me
 
