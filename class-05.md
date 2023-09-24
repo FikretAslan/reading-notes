@@ -14,6 +14,11 @@ Foreground colors(colors which are before background colours) are the colours yo
 I would first of all inspect the HTML and CSS and see what is already there. I would firstly change the background colour to a darker colour,
 (as everyone prefers dark theme) this then means I would need to change the color (which affects the font colour). I would also see if any of the divs need
 border colours and if it needs a background colour.
+When choosing fonts I think it's important to take into consideration the target audience. So for example if you are designing a website where children can access games you would want to use an easy-to-read font like comic sans.
+Font-size, font-weight and font-style do exactly what they say. For example font-size relates directly to the size of the font. Font-weight relates to the
+how bold the font is and font-style relates to the styling of the font.
+There's probably a lot of ways to add spacing between h1 elements you can add a margin or you can use an indent perhaps.
+
 
 
 
