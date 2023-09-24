@@ -17,6 +17,10 @@ Block elements cover space from left to right as far as it can go. Inline elemen
 Static is always default.
 ## Learn JS
 
-## Misc
+The difference between declaration and invocation is that the declaration declares the creation of variables and functions. Initialization assigns initial values to variables. Invocation executes a piece of code. A parameter is a variable in a function definition. It is a placeholder and hence does not have a concrete value. An argument is a value passed during function invocation.
 
+
+## Misc
+Greater efficiency: I think its important for 2 people to look at a code together - just like with anything. A personal anecdote is when I share my planning with another teacher and ask for their input. 2 eyes are better than one!
+Engaged collaboration: I think 2 programmers looking at a code could increase productivity and focus as you'll be less likely to procrastinate. This is due to two people discussing, working on and debugging a code together.
 ## 
