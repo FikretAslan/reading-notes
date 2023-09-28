@@ -22,3 +22,5 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 
 JavaScript uses DOM to access the documents and elements. The DOM is not part of the JavaScript language, but is instead a Web API used to build websites. JavaScript can also be used in other contexts.
 
+ [Main page](Main page.md)
+
