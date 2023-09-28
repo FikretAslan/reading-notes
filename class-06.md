@@ -16,3 +16,9 @@ Use bracket notation whenever we are accessing an object's property using a vari
 ![image](https://github.com/FikretAslan/reading-notes/assets/135455155/e5a9b392-f03b-4e37-b68e-993d34fc3949)
 
 As the variable is declared dog, we know that this function refers to different dogs. Using 'this.' within a function like this CHANGES the name and age but keeps all the objects the same.
+
+# DOM
+The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content.
+
+JavaScript uses DOM to access the documents and elements. The DOM is not part of the JavaScript language, but is instead a Web API used to build websites. JavaScript can also be used in other contexts.
+
