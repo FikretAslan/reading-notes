@@ -22,4 +22,4 @@ Constructors are used to initialize the objects of the class with initial values
 Objects created using object literal are singletons, this means when a change is made to the object, it affects the object entire the script.
 Whereas if an object is created using constructor function and a change is made to it, that change won't affect the object throughout the script
 
-# Object Prototypes Using A Constructor
+ [Main page](Main page.md)
