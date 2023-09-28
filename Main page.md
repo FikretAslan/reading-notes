@@ -11,6 +11,8 @@
 - Class 03 - [Class03](class-03.md)
 - Class 04 - [Class04](class-04.md)
 - Class 05 - [Class05](class-05.md)
+- Class 06 - [Class06](class-06.md)
+- Class 07 - [Class07](class-07.md)
 - Things I want to learn - [Things I want to learn more about](more-learning.md) 
 
 # About me
